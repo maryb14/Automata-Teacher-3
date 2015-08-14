@@ -39,7 +39,7 @@ namespace Automata_Teacher_3
             TextView result3 = FindViewById<TextView>(Resource.Id.Result3);
             result3.Text = "Your best score in 'Quiz - Generative grammars for the four languages' is " + score3p + " out of 4";
 
-            int score5p = prefs.GetInt("score1", 0);
+            int score5p = prefs.GetInt("score5", 0);
 
             TextView result5 = FindViewById<TextView>(Resource.Id.Result5);
             result5.Text = "Your best score in 'Quiz - Determinism and non-determinism' is " + score5p + " out of 4";

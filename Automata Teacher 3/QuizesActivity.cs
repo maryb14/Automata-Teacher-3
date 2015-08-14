@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace Automata_Teacher_3
 {
-    [Activity(Label = "Quizes", ParentActivity = typeof(MainActivity))]
+    [Activity(Label = "Quizzes", ParentActivity = typeof(MainActivity))]
     public class QuizesActivity : Activity
     {
         private List<string> list_items1;

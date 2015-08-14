@@ -24,7 +24,7 @@ namespace Automata_Teacher_3
 
             SetContentView(Resource.Layout.Quiz2Layout);
 
-            Button submitButton1 = FindViewById<Button>(Resource.Id.SubmitButton1);
+            Button submitButton2 = FindViewById<Button>(Resource.Id.SubmitButton2);
             RadioButton answer13 = FindViewById<RadioButton>(Resource.Id.Answer13);
             RadioButton answer21 = FindViewById<RadioButton>(Resource.Id.Answer21);
             RadioButton answer32 = FindViewById<RadioButton>(Resource.Id.Answer32);
@@ -32,7 +32,7 @@ namespace Automata_Teacher_3
             RadioButton answer51 = FindViewById<RadioButton>(Resource.Id.Answer51);
 
 
-            submitButton1.Click += delegate
+            submitButton2.Click += delegate
             {
                 if (answer13.Checked == true) score2++;
                 if (answer21.Checked == true) score2++;

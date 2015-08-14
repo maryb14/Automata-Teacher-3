@@ -8,7 +8,7 @@
     <activity android:label="Quiz - Languages and automata" android:name="md5e700a33d7957afb14167d0dd52202238.Quiz2Activity" />
     <activity android:label="Quiz - Generative grammars for the four languages" android:name="md5e700a33d7957afb14167d0dd52202238.Quiz3Activity" />
     <activity android:label="Quiz - Determinism and non-determinism" android:name="md5e700a33d7957afb14167d0dd52202238.Quiz5Activity" />
-    <activity android:label="Quizes" android:parentActivityName="md5e700a33d7957afb14167d0dd52202238.MainActivity" android:name="md5e700a33d7957afb14167d0dd52202238.QuizesActivity" />
+    <activity android:label="Quizzes" android:parentActivityName="md5e700a33d7957afb14167d0dd52202238.MainActivity" android:name="md5e700a33d7957afb14167d0dd52202238.QuizesActivity" />
     <activity android:label="ScoresActivity" android:parentActivityName="md5e700a33d7957afb14167d0dd52202238.MainActivity" android:name="md5e700a33d7957afb14167d0dd52202238.ScoresActivity" />
     <activity android:label="What is an automaton?" android:parentActivityName="md5e700a33d7957afb14167d0dd52202238.CategoriesActivity" android:name="md5e700a33d7957afb14167d0dd52202238.Topic1Activity" />
     <activity android:label="Languages and automata" android:parentActivityName="md5e700a33d7957afb14167d0dd52202238.CategoriesActivity" android:name="md5e700a33d7957afb14167d0dd52202238.Topic2Activity" />
