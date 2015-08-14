@@ -1,0 +1,3 @@
+C:\Users\marilena\Documents\Visual Studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\assemblies\Automata Teacher 3.dll
+C:\Users\marilena\Documents\Visual Studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\marilena\Documents\Visual Studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll

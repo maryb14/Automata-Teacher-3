@@ -1,0 +1,41 @@
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\bin\Debug\Automata Teacher 3.dll
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\bin\Debug\Automata Teacher 3.pdb
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\bin\Debug\Automata_Teacher_3.Automata_Teacher_3.apk
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\bin\Debug\Automata_Teacher_3.Automata_Teacher_3-Signed.apk
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\Automata Teacher 3.csprojResolveAssemblyReference.cache
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\Automata Teacher 3.dll
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\Automata Teacher 3.pdb
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\android\bin\Automata_Teacher_3.Automata_Teacher_3.apk
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\layout\categorieslayout.xml
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\layout\main.xml
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\values\strings.xml
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\drawable\icon.png
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\drawable\logo.png
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\R.cs.flag
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\uploadflags.txt
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\layout\topic1layout.xml
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\layout\topic2layout.xml
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\layout\quizeslayout.xml
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\layout\quiz1layout.xml
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\layout\quiz2layout.xml
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\layout\scoreslayout.xml
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+c:\users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\layout\listview_row.xml
+C:\Users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\layout\topic3layout.xml
+C:\Users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\layout\topic4layout.xml
+C:\Users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\layout\topic5layout.xml
+C:\Users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\layout\quiz3layout.xml
+C:\Users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\layout\quiz5layout.xml
+C:\Users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\drawable\topic22.png
+C:\Users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\drawable\topic221.png
+C:\Users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\drawable\topic1.png
+C:\Users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\drawable\topic81.png
+C:\Users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\drawable\topic82.png
+C:\Users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\drawable\topic83.png
+C:\Users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\drawable\topic84.png
+C:\Users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\drawable\topic85.png
+C:\Users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\drawable\topic86.png
+C:\Users\marilena\documents\visual studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\drawable\topic87.png
+C:\Users\marilena\Documents\Visual Studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\drawable\quiz1.png
+C:\Users\marilena\Documents\Visual Studio 2015\Projects\Automata Teacher 3\Automata Teacher 3\obj\Debug\res\drawable\quiz5.png
